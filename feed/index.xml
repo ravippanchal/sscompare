@@ -12,7 +12,7 @@
 	<atom:link href="httpravippanchal.github.io/sscompare/feed/" rel="self" type="application/rss+xml" />
 	<link>httpravippanchal.github.io/sscompare/</link>
 	<description></description>
-	<lastBuildDate>Wed, 30 Aug 2023 05:09:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Sep 2023 05:53:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>httpravippanchal.github.io/sscompare/hello-world/</link>
-					<comments>httpravippanchal.github.io/sscompare/hello-world/#comments</comments>
+		<link>httpravippanchal.github.io/sscompare/2023/09/06/hello-world/</link>
+					<comments>httpravippanchal.github.io/sscompare/2023/09/06/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[ravippanchal]]></dc:creator>
-		<pubDate>Wed, 30 Aug 2023 05:09:33 +0000</pubDate>
+		<pubDate>Wed, 06 Sep 2023 05:53:30 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">httpravippanchal.github.io/sscompare/?p=1</guid>
 
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>httpravippanchal.github.io/sscompare/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>httpravippanchal.github.io/sscompare/2023/09/06/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
